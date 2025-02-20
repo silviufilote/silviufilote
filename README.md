@@ -20,8 +20,8 @@ I’m a **Data Science and Data Engineering** master's student at the **Universi
 
 ### 📫 How to reach me  
 - **Email**: [silviu.filt@gmail.com]  
-- **LinkedIn**: [[your LinkedIn profile](https://www.linkedin.com/in/silviu-filote-076b34274/)]  
-- **Website/Portfolio**: [your portfolio if available](https://silviufilote.github.io/)]  
+- **LinkedIn**: [your LinkedIn profile](https://www.linkedin.com/in/silviu-filote-076b34274/)  
+- **Website/Portfolio**: [your portfolio if available](https://silviufilote.github.io/)  
 
 ### ⚡ Fun fact  
 I enjoy tackling **complex mathematical problems** and optimizing algorithms for **better efficiency and convergence**. 
