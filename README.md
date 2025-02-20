@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I’m a **Data Science and Data Engineering** master's student at the **University of Bergamo**, with a strong background in **machine learning, software development, and data analytics**. My work focuses on **statistical modeling, AI, and optimization techniques** applied to real-world problems.  
+I’m a **data science and data engineering** master's student at the **University of Bergamo**, with a strong background in **machine learning, software development, and data analytics**. My work focuses on **statistical modeling, AI, and optimization techniques** applied to real-world problems.  
 
 ### 🚀 What I'm working on  
 - **Machine Learning & Optimization**: Developing models for classification, regression, and decision-making.  
