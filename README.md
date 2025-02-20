@@ -21,7 +21,6 @@ I’m a **data science and data engineering** master's student at the **Universi
 ### 📫 How to reach me  
 - **Email**: [silviu.filt@gmail.com](silviu.filt@gmail.com)
 - **LinkedIn**: [Silviu Filote](https://www.linkedin.com/in/silviu-filote-076b34274/)  
-- **Website/Portfolio**: [silviufilote.github.io](https://silviufilote.github.io/)  
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
