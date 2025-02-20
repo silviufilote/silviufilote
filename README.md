@@ -3,10 +3,10 @@
 I’m a **data science and data engineering** master's student at the **University of Bergamo**, with a strong background in **machine learning, software development, and data analytics**. My work focuses on **statistical modeling, AI, and optimization techniques** applied to real-world problems.  
 
 ### 🚀 What I'm working on  
-- **Machine Learning & Optimization**: Developing models for classification, regression, and decision-making.  
-- **Algorithm Convergence Analysis**: Studying optimization techniques such as **Gradient Descent, Newton’s Method, Nesterov Acceleration, and Coordinate Descent**.  
-- **Data-Driven Applications**: Building **predictive modeling** systems, web applications, and AI-driven solutions.  
-- **ActionSphere**: Developing a **content recommendation algorithm** for an educational platform focused on acting techniques.  
+- **Machine Learning & Optimization**: developing models for classification, regression, and decision-making.  
+- **Algorithm Convergence Analysis**: studying optimization techniques such as **Gradient Descent, Newton’s Method, Nesterov Acceleration, and Coordinate Descent**.  
+- **Data-Driven Applications**: building **predictive modeling** systems, web applications, and AI-driven solutions.  
+- **ActionSphere**: developing a **content recommendation algorithm** for an educational platform focused on acting techniques.  
 
 ### 🌱 What I'm learning  
 - **Advanced AI & Reinforcement Learning**  
