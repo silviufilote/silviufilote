@@ -23,4 +23,12 @@ I’m a **Data Science and Data Engineering** master's student at the **Universi
 - **LinkedIn**: [Silviu Filote](https://www.linkedin.com/in/silviu-filote-076b34274/)  
 - **Website/Portfolio**: [silviufilote.github.io](https://silviufilote.github.io/)  
 
-s://visitcount.itsvg.in/api?id=silviufilote&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Silviufilote&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Silviufilote&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
