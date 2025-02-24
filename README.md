@@ -1,17 +1,17 @@
 ## Hi there 👋  
 
-I’m a **data science and data engineering** master's student at the **University of Bergamo**, with a strong background in **machine learning, software development, and data analytics**. My work focuses on **statistical modeling, AI, and optimization techniques** applied to real-world problems.  
+I’m a **Data Science & Data Engineering** master's student with a strong background in **machine learning, software development, and data analytics**. My expertise spans across **AI, optimization, statistical modeling, and high-performance computing**, with applications in real-world data-driven solutions.  
 
-### 🚀 What I'm working on  
-- **Machine Learning & Optimization**: developing models for classification, regression, and decision-making.  
-- **Algorithm Convergence Analysis**: studying optimization techniques such as **Gradient Descent, Newton’s Method, Nesterov Acceleration, and Coordinate Descent**.  
-- **Data-Driven Applications**: building **predictive modeling** systems, web applications, and AI-driven solutions.  
-- **ActionSphere**: developing a **content recommendation algorithm** for an educational platform focused on acting techniques.  
-
-### 🌱 What I'm learning  
-- **Advanced AI & Reinforcement Learning**  
-- **Scalable Data Engineering Solutions**  
-- **High-performance computing for ML models**  
+### 🔧 Skills & Expertise  
+- **Artificial Intelligence & Machine Learning**: Supervised & unsupervised learning, deep learning, neural networks (LSTMs), decision trees, ensemble methods, and reinforcement learning.  
+- **Optimization & Algorithmic Convergence**: Gradient Descent (Batch, Stochastic, Mini-Batch), Newton’s Method, Nesterov Acceleration, Coordinate Descent, Maximum Likelihood Estimation (MLE).  
+- **Data Science & Statistical Modeling**: Regression analysis, time series forecasting (ARIMA, Prophet, XGBoost, LSTM), spatiotemporal analysis, and feature engineering.  
+- **Software Development**: Java, Python, C, C++, R, Haskell, and MATLAB; Object-oriented, functional, and procedural programming paradigms.  
+- **Data Engineering & Big Data**: SQL, data pipelines, structured & unstructured data processing, cloud computing (AWS, Azure), and scalable system design.  
+- **Web Development**: RESTful APIs, Django, Flask, PHP, and full-stack application development.  
+- **Networking & System Administration**: Network configuration, system optimization, and IT infrastructure support.  
+- **Automation & Scripting**: Bash scripting, DevOps tools (Docker, CI/CD), and workflow automation.  
+- **Mathematical & Computational Foundations**: Linear algebra, calculus, probability, stochastic processes, dynamic systems modeling.  
 
 ### 💡 Looking to collaborate on  
 - Open-source **AI/ML** projects  
@@ -19,15 +19,15 @@ I’m a **data science and data engineering** master's student at the **Universi
 - **Innovative data science applications**  
 
 ### 📫 How to reach me  
-- **Email**: [silviu.filt@gmail.com](silviu.filt@gmail.com)
+- **Email**: [silviu.filt@gmail.com](mailto:silviu.filt@gmail.com)  
 - **LinkedIn**: [Silviu Filote](https://www.linkedin.com/in/silviu-filote-076b34274/)  
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Silviufilote&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats:  
+![](https://github-readme-stats.vercel.app/api?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Silviufilote&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silviufilote&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Silviufilote&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Silviufilote&icon=0&color=0)](https://visitcount.itsvg.in)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
