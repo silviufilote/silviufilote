@@ -14,9 +14,12 @@ I’m a **Data Science & Data Engineering** master's student with a strong backg
 - **Mathematical & Computational Foundations**: Linear algebra, calculus, probability, stochastic processes, dynamic systems modeling.  
 
 ### 💡 Looking to collaborate on  
-- Open-source **AI/ML** projects  
-- **Optimization techniques** in machine learning  
-- **Innovative data science applications**  
+- **Building AI/ML models** for real-world applications, focusing on practical and scalable solutions.  
+- **Developing responsive applications** that integrate advanced modeling techniques and intelligent automation.  
+- **End-to-end data-driven solutions**, from data collection and preprocessing to model deployment and monitoring.  
+- **Data Engineering & Scalable Infrastructure**, optimizing data pipelines, storage, and cloud computing solutions.  
+- **Networking & System Optimization**, ensuring efficient, high-performance architectures for AI and data applications.  
+- **Optimization & Algorithm Development**, implementing cutting-edge techniques for AI, decision-making, and predictive analytics.  
 
 ### 📫 How to reach me  
 - **Email**: [silviu.filt@gmail.com](mailto:silviu.filt@gmail.com)  
