@@ -1,25 +1,25 @@
 ## Hi there 👋  
 
-I’m a **Data Science & Data Engineering** master's student with a strong background in **machine learning, software development, and data analytics**. My expertise spans across **AI, optimization, statistical modeling, and high-performance computing**, with applications in real-world data-driven solutions.  
+I’m a **Data Science and Data Engineering** master's student with a strong background in **machine learning, software development, and data analytics**. My expertise spans across **AI, optimization, statistical modeling, and high-performance computing**, with applications in real-world data-driven solutions.  
 
-### 🔧 Skills & expertise  
-- **Artificial intelligence & Machine Learning**: development and implementation of AI/ML models, including deep learning, predictive analytics, and decision-making systems.  
-- **Optimization & algorithm Design**: application of mathematical optimization techniques for efficient problem-solving, including gradient-based methods and statistical estimation.  
-- **Data science & analytics**: data-driven modeling, forecasting, pattern recognition, and feature engineering for various domains.  
+### 🔧 Skills and expertise  
+- **Artificial intelligence and machine learning**: development and implementation of AI/ML models, including deep learning, predictive analytics, and decision-making systems.  
+- **Optimization and algorithm design**: application of mathematical optimization techniques for efficient problem-solving, including gradient-based methods and statistical estimation.  
+- **Data science and analytics**: data-driven modeling, forecasting, pattern recognition, and feature engineering for various domains.  
 - **Software development**: experience in multiple programming paradigms and languages, with a focus on building efficient, scalable, and maintainable applications.  
-- **Data engineering & Infrastructure**: design and optimization of data pipelines, database management, and cloud-based computing for large-scale data processing.  
+- **Data engineering and infrastructure**: design and optimization of data pipelines, database management, and cloud-based computing for large-scale data processing.  
 - **Full-stack development**: development of responsive and dynamic applications, integrating AI and data-driven functionalities.  
-- **Networking & system administration**: configuration, optimization, and maintenance of IT infrastructure for reliable performance.  
-- **Automation & DevOps**: implementation of automated workflows, CI/CD pipelines, and containerized environments for streamlined development and deployment.  
-- **Computational Mathematics**: strong foundation in mathematical modeling, statistical analysis, and algorithmic problem-solving.  
+- **Networking and system administration**: configuration, optimization, and maintenance of IT infrastructure for reliable performance.  
+- **Automation and DevOps**: implementation of automated workflows, CI/CD pipelines, and containerized environments for streamlined development and deployment.  
+- **Computational mathematics**: strong foundation in mathematical modeling, statistical analysis, and algorithmic problem-solving.  
 
 ### 💡 Looking to collaborate on  
 - **Building AI/ML models** for real-world applications, focusing on practical and scalable solutions.  
 - **Developing responsive applications** that integrate advanced modeling techniques and intelligent automation.  
 - **End-to-end data-driven solutions**, from data collection and preprocessing to model deployment and monitoring.  
-- **Data Engineering & Scalable Infrastructure**, optimizing data pipelines, storage, and cloud computing solutions.  
-- **Networking & System Optimization**, ensuring efficient, high-performance architectures for AI and data applications.  
-- **Optimization & Algorithm Development**, implementing cutting-edge techniques for AI, decision-making, and predictive analytics.  
+- **Data engineering and scalable infrastructure**, optimizing data pipelines, storage, and cloud computing solutions.  
+- **Networking and system optimization**, ensuring efficient, high-performance architectures for AI and data applications.  
+- **Optimization and algorithm development**, implementing cutting-edge techniques for AI, decision-making, and predictive analytics.  
 
 ### 📫 How to reach me  
 - **Email**: [silviu.filt@gmail.com](mailto:silviu.filt@gmail.com)  
