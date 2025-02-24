@@ -2,7 +2,7 @@
 
 I’m a **Data Science & Data Engineering** master's student with a strong background in **machine learning, software development, and data analytics**. My expertise spans across **AI, optimization, statistical modeling, and high-performance computing**, with applications in real-world data-driven solutions.  
 
-### 🔧 Skills & Expertise  
+### 🔧 Skills & expertise  
 - **Artificial Intelligence & Machine Learning**: development and implementation of AI/ML models, including deep learning, predictive analytics, and decision-making systems.  
 - **Optimization & Algorithm Design**: application of mathematical optimization techniques for efficient problem-solving, including gradient-based methods and statistical estimation.  
 - **Data Science & Analytics**: data-driven modeling, forecasting, pattern recognition, and feature engineering for various domains.  
