@@ -3,15 +3,15 @@
 I’m a **Data Science & Data Engineering** master's student with a strong background in **machine learning, software development, and data analytics**. My expertise spans across **AI, optimization, statistical modeling, and high-performance computing**, with applications in real-world data-driven solutions.  
 
 ### 🔧 Skills & Expertise  
-- **Artificial Intelligence & Machine Learning**: Development and implementation of AI/ML models, including deep learning, predictive analytics, and decision-making systems.  
-- **Optimization & Algorithm Design**: Application of mathematical optimization techniques for efficient problem-solving, including gradient-based methods and statistical estimation.  
-- **Data Science & Analytics**: Data-driven modeling, forecasting, pattern recognition, and feature engineering for various domains.  
-- **Software Development**: Experience in multiple programming paradigms and languages, with a focus on building efficient, scalable, and maintainable applications.  
-- **Data Engineering & Infrastructure**: Design and optimization of data pipelines, database management, and cloud-based computing for large-scale data processing.  
-- **Full-Stack Development**: Development of responsive and dynamic applications, integrating AI and data-driven functionalities.  
-- **Networking & System Administration**: Configuration, optimization, and maintenance of IT infrastructure for reliable performance.  
-- **Automation & DevOps**: Implementation of automated workflows, CI/CD pipelines, and containerized environments for streamlined development and deployment.  
-- **Computational Mathematics**: Strong foundation in mathematical modeling, statistical analysis, and algorithmic problem-solving.  
+- **Artificial Intelligence & Machine Learning**: development and implementation of AI/ML models, including deep learning, predictive analytics, and decision-making systems.  
+- **Optimization & Algorithm Design**: application of mathematical optimization techniques for efficient problem-solving, including gradient-based methods and statistical estimation.  
+- **Data Science & Analytics**: data-driven modeling, forecasting, pattern recognition, and feature engineering for various domains.  
+- **Software Development**: experience in multiple programming paradigms and languages, with a focus on building efficient, scalable, and maintainable applications.  
+- **Data Engineering & Infrastructure**: design and optimization of data pipelines, database management, and cloud-based computing for large-scale data processing.  
+- **Full-Stack Development**: development of responsive and dynamic applications, integrating AI and data-driven functionalities.  
+- **Networking & System Administration**: configuration, optimization, and maintenance of IT infrastructure for reliable performance.  
+- **Automation & DevOps**: implementation of automated workflows, CI/CD pipelines, and containerized environments for streamlined development and deployment.  
+- **Computational Mathematics**: strong foundation in mathematical modeling, statistical analysis, and algorithmic problem-solving.  
 
 ### 💡 Looking to collaborate on  
 - **Building AI/ML models** for real-world applications, focusing on practical and scalable solutions.  
