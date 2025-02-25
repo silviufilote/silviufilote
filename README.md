@@ -15,10 +15,14 @@ I’m a **Data Science and Data Engineering** master's student with a strong bac
 
 ### 💡 Professional profile and career objectives 
 
-<div align="justify"> I am a Master's student in Data Science and Data Engineering (DSDE) at the Università degli Studi di Bergamo, specializing in analytics, machine learning, and optimization. My academic and professional background has provided me with expertise in developing data-driven solutions, building scalable applications, and implementing advanced statistical models to solve complex problems.  
+<div align="justify"> I am a Master's student in Data Science and Data Engineering (DSDE) at the Università degli Studi di Bergamo, specializing in analytics, machine learning, and optimization. My academic and professional background has provided me with expertise in developing data-driven solutions, building scalable applications, and implementing advanced statistical models to solve complex problems.
+  
 &nbsp;
+
 I am seeking a role that allows me to apply my knowledge in data science, machine learning, and software development, leveraging a diverse set of methodologies and technologies to drive data-informed decision-making and innovation. I am particularly interested in dynamic environments where I can collaborate with professionals from diverse industries, contributing to impactful projects while expanding my technical expertise. 
+
 &nbsp;
+
 My commitment to continuous learning drives me to explore emerging technologies, pursue advanced courses, and obtain certifications that enhance my skills across multiple domains. Adaptable and open to travel, I am eager to embrace new challenges, engage with different realities, and apply my expertise to develop innovative solutions in data science and application development.  </div>
 
 
