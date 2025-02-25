@@ -21,8 +21,6 @@ I’m a **Data Science and Data Engineering** master's student with a strong bac
 
 I am seeking a role that allows me to apply my knowledge in data science, machine learning, and software development, leveraging a diverse set of methodologies and technologies to drive data-informed decision-making and innovation. I am particularly interested in dynamic environments where I can collaborate with professionals from diverse industries, contributing to impactful projects while expanding my technical expertise. 
 
-&nbsp;
-
 My commitment to continuous learning drives me to explore emerging technologies, pursue advanced courses, and obtain certifications that enhance my skills across multiple domains. Adaptable and open to travel, I am eager to embrace new challenges, engage with different realities, and apply my expertise to develop innovative solutions in data science and application development.  </div>
 
 
