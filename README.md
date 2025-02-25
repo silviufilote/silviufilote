@@ -14,12 +14,15 @@ I’m a **Data Science and Data Engineering** master's student with a strong bac
 - **Computational mathematics**: strong foundation in mathematical modeling, statistical analysis, and algorithmic problem-solving.  
 
 ### 💡 Looking to collaborate on  
-- **Building AI/ML models** for real-world applications, focusing on practical and scalable solutions.  
-- **Developing responsive applications** that integrate advanced modeling techniques and intelligent automation.  
-- **End-to-end data-driven solutions**, from data collection and preprocessing to model deployment and monitoring.  
-- **Data engineering and scalable infrastructure**, optimizing data pipelines, storage, and cloud computing solutions.  
-- **Networking and system optimization**, ensuring efficient, high-performance architectures for AI and data applications.  
-- **Optimization and algorithm development**, implementing cutting-edge techniques for AI, decision-making, and predictive analytics.  
+I am a Master's student in Data Science and Data Engineering (DSDE) at the Università degli Studi di Bergamo, specializing in analytics, machine learning, and optimization. My academic and professional background has provided me with expertise in developing data-driven solutions, building scalable applications, and implementing advanced statistical models to solve complex problems.  
+
+
+
+I am seeking a role that allows me to apply my knowledge in data science, machine learning, and software development, leveraging a diverse set of methodologies and technologies to drive data-informed decision-making and innovation. I am particularly interested in dynamic environments where I can collaborate with professionals from diverse industries, contributing to impactful projects while expanding my technical expertise. 
+
+
+
+My commitment to continuous learning drives me to explore emerging technologies, pursue advanced courses, and obtain certifications that enhance my skills across multiple domains. Adaptable and open to travel, I am eager to embrace new challenges, engage with different realities, and apply my expertise to develop innovative solutions in data science and application development. 
 
 ### 📫 How to reach me  
 - **Email**: [silviu.filt@gmail.com](mailto:silviu.filt@gmail.com)  
