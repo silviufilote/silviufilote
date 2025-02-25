@@ -13,7 +13,7 @@ I’m a **Data Science and Data Engineering** master's student with a strong bac
 - **Automation and DevOps**: implementation of automated workflows, CI/CD pipelines, and containerized environments for streamlined development and deployment.  
 - **Computational mathematics**: strong foundation in mathematical modeling, statistical analysis, and algorithmic problem-solving.  
 
-### 💡 Looking to collaborate on  
+### 💡 Professional profile and career objectives 
 I am a Master's student in Data Science and Data Engineering (DSDE) at the Università degli Studi di Bergamo, specializing in analytics, machine learning, and optimization. My academic and professional background has provided me with expertise in developing data-driven solutions, building scalable applications, and implementing advanced statistical models to solve complex problems.  
 
 
