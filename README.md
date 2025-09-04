@@ -11,10 +11,9 @@ My work bridges **machine learning, optimization, software development, and data
 - **Data Science & Analytics**: forecasting, time-series analysis, pattern recognition, and feature engineering.  
 - **Software Engineering**: full-stack development (React, Next.js, TypeScript, MongoDB), APIs, and scalable architectures.  
 - **Data Engineering**: pipeline design, ETL, database management (SQL/NoSQL), and cloud-based processing.  
-<!-- - **DevOps & Automation**: CI/CD, Docker, Kubernetes, and workflow automation.  -->
 - **Systems & Networking**: IT infrastructure configuration, optimization, and administration.  
 - **Computational Mathematics**: statistical modeling, numerical methods, and algorithmic problem-solving.  
-
+<!-- - **DevOps & Automation**: CI/CD, Docker, Kubernetes, and workflow automation.  -->
 ---
 
 ### 💡 About Me  
