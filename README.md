@@ -1,7 +1,6 @@
 ## Hi there 👋  
 <p align="justify">
-I’m a **Master’s student in Data Science and Data Engineering** at the University of Bergamo with a passion for turning data into actionable insights and intelligent systems. My work bridges **machine learning, optimization, software development and data engineering** with applications ranging from spatiotemporal modeling to scalable web platforms.  
-</p>
+I’m a **Master’s student in Data Science and Data Engineering** at the University of Bergamo with a passion for turning data into actionable insights and intelligent systems. My work bridges **machine learning, optimization, software development and data engineering** with applications ranging from spatiotemporal modeling to scalable web platforms.  </p>
 ---
 
 ### 🔧 Skills & Expertise  
