@@ -1,7 +1,7 @@
 ## Hi there 👋  
-
+<p align="justify">
 I’m a **Master’s student in Data Science and Data Engineering** at the University of Bergamo with a passion for turning data into actionable insights and intelligent systems. My work bridges **machine learning, optimization, software development and data engineering** with applications ranging from spatiotemporal modeling to scalable web platforms.  
-
+</p>
 ---
 
 ### 🔧 Skills & Expertise  
@@ -16,9 +16,9 @@ I’m a **Master’s student in Data Science and Data Engineering** at the Unive
 ---
 
 ### 💡 About Me  
-
+<p align="justify">
 I thrive at the intersection of **data science and software engineering**, developing solutions that are both **theoretically sound** and **practically scalable**. Curious and adaptable, I enjoy working in collaborative environments where I can contribute to impactful projects, while continuing to grow through **emerging technologies and advanced research**. Currently, I’m focusing on **multivariate spatial models for seismic data analysis** as part of my master’s thesis, combining statistical innovation with real-world societal applications.  
-
+</p>
 ---
 
 ### 📫 Let’s Connect  
